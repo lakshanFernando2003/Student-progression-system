@@ -5,7 +5,6 @@
 # https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/-Took a base idea how the histogram need to be programmed
 # https://www.w3schools.com/python/python_file_handling.asp- Took an idea how the text file handling is done and more deep researched about them
 # https://stackoverflow.com/questions/20309456/how-do-i-call-a-function-from-another-py-file - how python import files from one to another file
-# Student_ID-20232343 , UOW_ID-w2053501 
 # Date-30/11/2023
 from graphics import *    #import the graphics.py module
 from w2053501_part3 import save_data,read_data        # import the textdef.py which i has user define functions of 'save_data' and 'read_data'
